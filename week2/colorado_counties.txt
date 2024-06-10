@@ -1,0 +1,65 @@
+CTYNAME	CENSUS2010POP
+Adams County	441603
+Alamosa County	15445
+Arapahoe County	572003
+Archuleta County	12084
+Baca County	3788
+Bent County	6499
+Boulder County	294567
+Broomfield County	55889
+Chaffee County	17809
+Cheyenne County	1836
+Clear Creek County	9088
+Conejos County	8256
+Costilla County	3524
+Crowley County	5823
+Custer County	4255
+Delta County	30952
+Denver County	600158
+Dolores County	2064
+Douglas County	285465
+Eagle County	52197
+Elbert County	23086
+El Paso County	622263
+Fremont County	46824
+Garfield County	56389
+Gilpin County	5441
+Grand County	14843
+Gunnison County	15324
+Hinsdale County	843
+Huerfano County	6711
+Jackson County	1394
+Jefferson County	534543
+Kiowa County	1398
+Kit Carson County	8270
+Lake County	7310
+La Plata County	51334
+Larimer County	299630
+Las Animas County	15507
+Lincoln County	5467
+Logan County	22709
+Mesa County	146723
+Mineral County	712
+Moffat County	13795
+Montezuma County	25535
+Montrose County	41276
+Morgan County	28159
+Otero County	18831
+Ouray County	4436
+Park County	16206
+Phillips County	4442
+Pitkin County	17148
+Prowers County	12551
+Pueblo County	159063
+Rio Blanco County	6666
+Rio Grande County	11982
+Routt County	23509
+Saguache County	6108
+San Juan County	699
+San Miguel County	7359
+Sedgwick County	2379
+Summit County	27994
+Teller County	23350
+Washington County	4814
+Weld County	252825
+Yuma County	10043
